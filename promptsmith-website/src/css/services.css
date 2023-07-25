@@ -1,0 +1,38 @@
+.service-data{
+display: flex;
+text-align: center;
+justify-content: center;
+background-color: #fafafa;
+/* margin: 3em; */
+padding: 3em;
+}
+
+.sec{
+margin-top:3em;
+margin-bottom: 3em;
+}
+
+.para-service1{
+    margin:2em 0 0 5em;
+    text-align: justify;
+    font-size: 1.1em;
+  
+}
+.para-service2{
+    margin:2em 5em 0 0;
+    text-align: justify;
+    font-size: 1.1em;
+}
+
+.service-content{
+    text-align: center;
+}
+
+.service-rows-data{
+    display: inline;
+}
+
+.images{
+    width: 25em;
+    height: 20em;
+}
